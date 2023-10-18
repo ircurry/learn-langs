@@ -1,0 +1,132 @@
+#+title: Projects
+#+STARTUP: content
+
+* Projects
+
+** AI
+
+*** Basic Neural Networks
+
+** Algorithms
+
+*** Fizzbuzz
+- *Difficulty*: Easy
+- *Libraries*: std
+- *Description*: A simple program that outputs fizz if the number is divisible by 3, buzz if the number is divisible by 5, and fizzbuzz if the number is divisible by 3 and 5. The program should just output the number if it is not divisible by 5 or 3. When and how to program exits is up to the implementer. 
+- *Extensions*:
+  - [ ] Allow the user to enter the termination number
+
+*** Pi Digit Calculator
+
+*** Prime Factor Calculator
+
+** Cryptography
+
+*** Caesar Cipher Cracker
+
+*** Enigma Cipher Cracker
+
+** Data
+
+*** Todo List App
+
+*** Inventory Management Program
+
+*** Finance Management Program
+
+** Games
+
+*** Chess
+
+*** Hangmang
+
+*** Pong
+
+*** Rock, Paper Scissors
+- *Difficulty*: Easy
+- *External Libraries*: std
+- *Description*: Create a terminal rock paper scissors game. Allow the user to enter a choice of rock, paper, or scissors. Return an error if the user gives an invalid choice. Make sure the computer choice is random or pseudo-random. The program should play round after round until told to stop. At the end the program should return how many wins, losses, and ties there were in the game
+- *Extensions*:
+  - [ ] N/A
+
+*** Sudoku
+
+*** Tetris
+
+*** Texas Hold 'em
+
+*** Tic Tac Toe
+
+** Graphics
+
+*** 3D Spinning Doughnut
+
+*** 3D Spinning Cube
+
+*** Graphing Calculator
+
+** GUI
+
+*** Paint Clone
+
+*** GUI Text Editor
+
+*** GUI Torrent Client
+
+*** wlroots Wayland Compositor
+
+** Languages
+
+*** Lisp
+
+** Networking
+
+*** BBS System
+
+*** Gemini Server
+
+*** Gemini Client
+
+*** HTTP Server
+
+*** HTTP Client
+
+*** HTTPS Server
+
+*** HTTPS Client
+
+*** IRC Client
+
+*** Mini youtube-dl Clone
+
+*** Torrent Client
+
+** Security
+
+** Text Manipulation
+
+*** Basic Search/Replace
+
+*** Basic Pattern Matching
+
+*** Editor
+
+*** Grep Clone
+
+*** Sed Clone
+
+** Misc
+
+*** Chat Bot
+
+*** Hello World
+
+*** River Layout Engine
+
+* Template
+- *Difficulty*: N/A
+- *External Libraries*: N/A
+- *Description*: N/A
+- *Extensions*:
+  - [ ] N/A
+
